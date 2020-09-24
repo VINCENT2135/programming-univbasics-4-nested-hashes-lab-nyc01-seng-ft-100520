@@ -104,6 +104,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
+alans_groove = "GUI"
 
 end
 
