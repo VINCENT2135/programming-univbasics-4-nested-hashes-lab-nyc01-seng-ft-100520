@@ -104,7 +104,9 @@ def changing_alan
         :languages => ["C"]
       }
     }
-alans_groove = "GUI"
+alans_new_groove = "GUI"
+programmer_hash[:alan_kay][:known_for] = alans_new_info
+programmer_hash
 
 end
 
